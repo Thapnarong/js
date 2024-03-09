@@ -341,7 +341,7 @@ footer {
   flex: 2;
   display: flex;
   justify-content: space-between;
-  padding: 50px;
+  padding-left: 200px;
 }
 .fMenuTitle {
   font-size: 16px;
@@ -361,6 +361,7 @@ footer {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  align-items: center;
 }
 .fInput {
   padding: 5px;
